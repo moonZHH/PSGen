@@ -1,0 +1,13 @@
+[SRC] ACameraManager_getCameraCharacteristics
+  [Path-0] ACameraManager_getCameraCharacteristics
+  [Path-0] _ZN14ACameraManager24getCameraCharacteristicsEPKcPN7android2spI15ACameraMetadataEE
+  [Path-0] _ZN7android8hardware15BpCameraService24getCameraCharacteristicsERKNS_8String16EPNS_14CameraMetadataE
+  [Path-0] _ZN7android13CameraService24getCameraCharacteristicsERKNS_8String16EPNS_14CameraMetadataE
+  [Permission] android.permission.CAMERA
+[SRC] ACameraManager_openCamera
+  [Path-0] ACameraManager_openCamera
+  [Path-0] _ZN14ACameraManager10openCameraEPKcP28ACameraDevice_StateCallbacksPP13ACameraDevice
+  [Path-0] _ZN14ACameraManager24getCameraCharacteristicsEPKcPN7android2spI15ACameraMetadataEE
+  [Path-0] _ZN7android8hardware15BpCameraService24getCameraCharacteristicsERKNS_8String16EPNS_14CameraMetadataE
+  [Path-0] _ZN7android13CameraService24getCameraCharacteristicsERKNS_8String16EPNS_14CameraMetadataE
+  [Permission] android.permission.CAMERA
