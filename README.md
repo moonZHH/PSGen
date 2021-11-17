@@ -1,4 +1,4 @@
-# PSGen: Permission Specification Analysis for Android NDK
+# PSGen: Permission Specification Analysis for NDK
 
 ## Publication
 
