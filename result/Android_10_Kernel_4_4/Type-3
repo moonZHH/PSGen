@@ -1,0 +1,81 @@
+[SRC] android_getaddrinfofornetcontext
+  [Path-0] android_getaddrinfofornetcontext
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] __res_nsearch
+  [Path-0] __res_nsearch
+  [Path-0] __res_nquerydomain
+  [Path-0] __res_nquery
+  [Path-0] __res_nsend
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] __res_nquerydomain
+  [Path-0] __res_nquerydomain
+  [Path-0] __res_nquery
+  [Path-0] __res_nsend
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] if_indextoname
+  [Path-0] if_indextoname
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] android_getaddrinfofornetwork
+  [Path-0] android_getaddrinfofornetwork
+  [Path-0] android_getaddrinfofornet
+  [Path-0] android_getaddrinfofornetcontext
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] __res_nsend
+  [Path-0] __res_nsend
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] getaddrinfo
+  [Path-0] getaddrinfo
+  [Path-0] android_getaddrinfofornet
+  [Path-0] android_getaddrinfofornetcontext
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] getifaddrs
+  [Path-0] getifaddrs
+  [Path-0] _ZN17NetlinkConnection11SendRequestEi
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] if_nametoindex
+  [Path-0] if_nametoindex
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] __res_nquery
+  [Path-0] __res_nquery
+  [Path-0] __res_nsend
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] if_nameindex
+  [Path-0] if_nameindex
+  [Path-0] _ZN17NetlinkConnection11SendRequestEi
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] socketpair
+  [Path-0] socketpair
+  [Permission] android.permission.INTERNET
+[SRC] android_getaddrinfofornet
+  [Path-0] android_getaddrinfofornet
+  [Path-0] android_getaddrinfofornetcontext
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] nsdispatch
+  [Path-0] nsdispatch
+  [Path-0] _dns_gethtbyaddr
+  [Path-0] __res_nquery
+  [Path-0] __res_nsend
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] getnameinfo
+  [Path-0] getnameinfo
+  [Path-0] android_getnameinfofornet
+  [Path-0] ip6_parsenumeric
+  [Path-0] if_indextoname
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
+[SRC] socket
+  [Path-0] socket
+  [Permission] android.permission.INTERNET
